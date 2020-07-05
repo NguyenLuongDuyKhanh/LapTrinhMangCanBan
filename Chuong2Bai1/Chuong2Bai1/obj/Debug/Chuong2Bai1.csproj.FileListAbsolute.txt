@@ -1,0 +1,32 @@
+D:\Baitap\C-Sharp\Network Programming\Chuong2Bai1\Chuong2Bai1\bin\Debug\Chuong2Bai1.exe
+D:\Baitap\C-Sharp\Network Programming\Chuong2Bai1\Chuong2Bai1\bin\Debug\Chuong2Bai1.pdb
+D:\Baitap\C-Sharp\Network Programming\Chuong2Bai1\Chuong2Bai1\obj\Debug\ResolveAssemblyReference.cache
+D:\Baitap\C-Sharp\Network Programming\Chuong2Bai1\Chuong2Bai1\obj\Debug\Chuong2Bai1.Form1.resources
+D:\Baitap\C-Sharp\Network Programming\Chuong2Bai1\Chuong2Bai1\obj\Debug\Chuong2Bai1.Properties.Resources.resources
+D:\Baitap\C-Sharp\Network Programming\Chuong2Bai1\Chuong2Bai1\obj\Debug\Chuong2Bai1.csproj.GenerateResource.Cache
+D:\Baitap\C-Sharp\Network Programming\Chuong2Bai1\Chuong2Bai1\obj\Debug\Chuong2Bai1.exe
+D:\Baitap\C-Sharp\Network Programming\Chuong2Bai1\Chuong2Bai1\obj\Debug\Chuong2Bai1.pdb
+D:\WorkingZone\MonMang\Sample\Chuong2\Chuong2Bai1\Chuong2Bai1\bin\Debug\Chuong2Bai1.exe
+D:\WorkingZone\MonMang\Sample\Chuong2\Chuong2Bai1\Chuong2Bai1\bin\Debug\Chuong2Bai1.pdb
+D:\WorkingZone\MonMang\Sample\Chuong2\Chuong2Bai1\Chuong2Bai1\obj\Debug\Chuong2Bai1.csprojAssemblyReference.cache
+D:\WorkingZone\MonMang\Sample\Chuong2\Chuong2Bai1\Chuong2Bai1\obj\Debug\Chuong2Bai1.Form1.resources
+D:\WorkingZone\MonMang\Sample\Chuong2\Chuong2Bai1\Chuong2Bai1\obj\Debug\Chuong2Bai1.Properties.Resources.resources
+D:\WorkingZone\MonMang\Sample\Chuong2\Chuong2Bai1\Chuong2Bai1\obj\Debug\Chuong2Bai1.csproj.GenerateResource.cache
+D:\WorkingZone\MonMang\Sample\Chuong2\Chuong2Bai1\Chuong2Bai1\obj\Debug\Chuong2Bai1.csproj.CoreCompileInputs.cache
+D:\WorkingZone\MonMang\Sample\Chuong2\Chuong2Bai1\Chuong2Bai1\obj\Debug\Chuong2Bai1.exe
+D:\WorkingZone\MonMang\Sample\Chuong2\Chuong2Bai1\Chuong2Bai1\obj\Debug\Chuong2Bai1.pdb
+D:\WorkingZone\MonMang\Doan\Chuong2Bai1\Chuong2Bai1\obj\Debug\Chuong2Bai1.csprojAssemblyReference.cache
+D:\WorkingZone\MonMang\Doan\Chuong2Bai1\Chuong2Bai1\obj\Debug\Chuong2Bai1.Properties.Resources.resources
+D:\WorkingZone\MonMang\Doan\Chuong2Bai1\Chuong2Bai1\obj\Debug\Chuong2Bai1.csproj.GenerateResource.cache
+D:\WorkingZone\MonMang\Doan\Chuong2Bai1\Chuong2Bai1\obj\Debug\Chuong2Bai1.csproj.CoreCompileInputs.cache
+D:\WorkingZone\MonMang\Doan\Chuong2Bai1\Chuong2Bai1\obj\Debug\Chuong2Bai1.exe
+D:\WorkingZone\MonMang\Doan\Chuong2Bai1\Chuong2Bai1\obj\Debug\Chuong2Bai1.pdb
+D:\WorkingZone\MonMang\Doan\Chuong2Bai1\Chuong2Bai1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\WorkingZone\MonMang\Doan\Chuong2Bai1\Chuong2Bai1\bin\Debug\Chuong2Bai1.exe.config
+D:\WorkingZone\MonMang\Doan\Chuong2Bai1\Chuong2Bai1\bin\Debug\Chuong2Bai1.exe
+D:\WorkingZone\MonMang\Doan\Chuong2Bai1\Chuong2Bai1\bin\Debug\Chuong2Bai1.pdb
+D:\WorkingZone\MonMang\Doan\Chuong2Bai1\Chuong2Bai1\bin\Debug\Renci.SshNet.Async.dll
+D:\WorkingZone\MonMang\Doan\Chuong2Bai1\Chuong2Bai1\bin\Debug\Renci.SshNet.dll
+D:\WorkingZone\MonMang\Doan\Chuong2Bai1\Chuong2Bai1\bin\Debug\Renci.SshNet.xml
+D:\WorkingZone\MonMang\Doan\Chuong2Bai1\Chuong2Bai1\bin\Debug\Renci.SshNet.Async.xml
+D:\WorkingZone\MonMang\Doan\Chuong2Bai1\Chuong2Bai1\obj\Debug\Chuong2Bai1.csproj.CopyComplete
